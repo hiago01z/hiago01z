@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mim
 
-Sou Gestor de TI em formação, de Rorainópolis (RR). Gosto de transformar ideias em produtos que funcionam de verdade — sites, SaaS e automações — conduzindo o desenvolvimento do conceito ao deploy com o apoio de agentes de IA.
+Sou Gestor de TI em formação, de Rorainópolis (RR). Gosto de transformar ideias em produtos que funcionam de verdade. Crio sites, SaaS e automações,conduzindo o desenvolvimento do conceito ao deploy com o apoio de agentes de IA.
 
 Une o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar em produção.
 
