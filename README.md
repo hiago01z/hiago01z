@@ -42,10 +42,10 @@ Une o que estudo (gestão, estratégia e lógica) com execução prática: penso
 
 | Projeto | Descrição |
 |---|---|
-| [**ReplyFlow**](https://github.com/hiago01z/ReplyFlow) | SaaS de gestão de reviews com IA para negócios locais — responde avaliações do Google, Facebook e TripAdvisor automaticamente. |
+| [**ReplyFlow**](https://github.com/hiago01z/ReplyFlow) |Ideia de SaaS de gestão de reviews com IA para negócios locais — responde avaliações do Google, Facebook e TripAdvisor. |
 | [**Miguel-Nasinhak**](https://github.com/hiago01z/Miguel-Nasinhak) | Site portfólio de médico especialista em Medicina Integrativa, com design full-bleed e responsivo. |
-| [**HIVI-Tecnologia**](https://github.com/hiago01z/HIVI-Tecnologia) | Site institucional da minha empresa de soluções de TI. |
-| [**HIVI-Para-Restaurantes**](https://github.com/hiago01z/HIVI-Para-Restaurantes) | Solução tecnológica voltada para o setor de restaurantes. |
+| [**HIVI-Tecnologia**](https://github.com/hiago01z/HIVI-Tecnologia) | Site institucional da minha futura empresa de soluções de TI. |
+| [**HIVI-Para-Restaurantes**](https://github.com/hiago01z/HIVI-Para-Restaurantes) | Ideia de solução tecnológica voltada para o setor de restaurantes. |
 
 ---
 
