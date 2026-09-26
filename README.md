@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Hiago Almeida 👋</h1>
 
 <p align="center">
-  Gestor de TI em formação · Construo produtos web, SaaS e automações orquestrando IA
+  Sou estudante de Tecnologia da Informação 
 </p>
 
 <p align="center">
@@ -15,37 +15,36 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-Sou Gestor de TI em formação, de Rorainópolis (RR). Gosto de transformar ideias em produtos que funcionam de verdade. Crio sites, SaaS e automações, conduzindo o desenvolvimento do conceito ao deploy com o apoio de agentes de IA.
+Sou Gestor de TI em formação. Amo tecnologia e pretendo me aprofundar em desenvolvimento, com foco em back-end.
 
-Une o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar em produção.
+Une o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar onde quero.
 
-- 🔭 Planejando a **HIVI Tecnologia**, minha futura empresa de soluções de TI
-- 🌱 Aprofundando **SQL**, **Next.js** e boas práticas de desenvolvimento
-- 💡 Interesse especial em **tecnologia aplicada à saúde e a negócios locais**
-- 📫 Fale comigo pelo [WhatsApp](https://wa.me/5595984150835) ou [Instagram](https://instagram.com/almeida.0z)
+-  Aprofundando **SQL**, **JavaScript** e boas práticas de desenvolvimento
+-  Interesse especial em **desenvolvimento**
+-  Fale comigo pelo [WhatsApp](https://wa.me/5595984150835) ou [Instagram](https://instagram.com/almeida.0z)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 📌 Projetos em destaque
+###  Projetos em destaque
 
 | Projeto | Descrição |
 |---|---|
-| [**ReplyFlow**](https://github.com/hiago01z/ReplyFlow) |Ideia de SaaS de gestão de reviews com IA para negócios locais — responde avaliações do Google, Facebook e TripAdvisor. |
-| [**Miguel-Nasinhak**](https://github.com/hiago01z/Miguel-Nasinhak) | Site portfólio de médico especialista em Medicina Integrativa, com design full-bleed e responsivo. |
-| [**HIVI-Tecnologia**](https://github.com/hiago01z/HIVI-Tecnologia) | Site institucional da minha futura empresa de soluções de TI. |
-| [**HIVI-Para-Restaurantes**](https://github.com/hiago01z/HIVI-Para-Restaurantes) | Ideia de solução tecnológica voltada para o setor de restaurantes. |
+| [**ReplyFlow**](https://github.com/hiago01z/ReplyFlow) |Ideia de SaaS de gestão de reviews com IA para negócios locais — responde avaliações do Google, Facebook e TripAdvisor - Estudo (Vibecoder) | 
+| [**Miguel-Nasinhak**](https://github.com/hiago01z/Miguel-Nasinhak) | Site portfólio de médico especialista em Medicina Integrativa, com design full-bleed e responsivo - Estudo  (Vibecoder) |
+| [**HIVI-Tecnologia**](https://github.com/hiago01z/HIVI-Tecnologia) | Site institucional de uma empresa de soluções de TI - Pessoal  (Vibecoder) |
+| [**HIVI-Para-Restaurantes**](https://github.com/hiago01z/HIVI-Para-Restaurantes) | Ideia de solução tecnológica voltada para o setor de restaurantes - Estudo  (Vibecoder) |
 
 ---
 
