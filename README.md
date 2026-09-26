@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Hiago Almeida 👋</h1>
 
 <p align="center">
-  Sou estudante de Tecnologia da Informação 
+  Estudante de Tecnologia da Informação 
 </p>
 
 <p align="center">
