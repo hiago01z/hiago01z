@@ -19,7 +19,7 @@
 
 Sou Gestor de TI em formação. Amo tecnologia e pretendo me aprofundar em desenvolvimento, com foco em back-end.
 
-Une o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar onde quero.
+Uno o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar onde quero.
 
 -  Aprofundando **SQL**, **JavaScript** e boas práticas de desenvolvimento
 -  Interesse especial em **desenvolvimento**
