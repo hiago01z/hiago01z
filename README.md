@@ -48,9 +48,3 @@ Une o que estudo (gestão, estratégia e lógica) com execução prática: penso
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiago01z&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiago01z&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" height="165"/>
-</p>
