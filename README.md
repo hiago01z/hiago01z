@@ -21,8 +21,8 @@ Sou Gestor de TI em formação. Amo tecnologia e pretendo me aprofundar em desen
 
 Uno o que estudo (gestão, estratégia e lógica) com execução prática: penso o problema, desenho a solução e coordeno a construção até chegar onde quero.
 
--  Aprofundando **SQL**, **JavaScript** e boas práticas de desenvolvimento
--  Interesse especial em **desenvolvimento**
+-  Aprofundando **SQL**, **Node.js** e boas práticas de desenvolvimento
+-  Interesse especial em **desenvolvimento Back-End**
 -  Fale comigo pelo [WhatsApp](https://wa.me/5595984150835) ou [Instagram](https://instagram.com/almeida.0z)
 
 ---
