@@ -47,6 +47,9 @@ Uno o que estudo (gestão, estratégia e lógica) com execução prática: penso
 | [**HIVI-Para-Restaurantes**](https://github.com/hiago01z/HIVI-Para-Restaurantes) | Ideia de solução tecnológica voltada para o setor de restaurantes - Estudo  (Vibecoder) |
 
 ---
+
+###  Stats
+
 <div>
 <a href="https://github.com/hiago01z">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiago01z&layout=compact&langs_count=7&theme=dracula"/>
